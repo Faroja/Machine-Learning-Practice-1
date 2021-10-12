@@ -7,11 +7,11 @@ Practice Machine Learning with Multiple Linear Regression
      - Cut, color, clarity as categorical independent variable
      - Price as dependent variable
 
-## - Analyze the relationship
-## - Apply Multiple Linear Regression with dummy variable
-## - Perform Simultant Test and Partial Test
-## - Check the assumptions
-## - Interpret the result
-## - Use α 5%
+ - Analyze the relationship
+ - Apply Multiple Linear Regression with dummy variable
+ - Perform Simultant Test and Partial Test
+ - Check the assumptions
+ - Interpret the result
+ - Use α 5%
 
-**Try to find the best model without any multicollinearity, or at least the least one.**
+ Find the best model without any multicollinearity, or at least the least one.
